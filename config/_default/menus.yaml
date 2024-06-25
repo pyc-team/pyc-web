@@ -18,6 +18,3 @@ main:
   - name: Docs
     url: https://pytorch-concepts.readthedocs.io/en/latest/
     weight: 30
-  - name: Core Team
-    url: people
-    weight: 40

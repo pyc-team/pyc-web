@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: core-team
+  - block: team
     content:
       title: The Core PyC Team
       # Choose which groups/teams of users to display.

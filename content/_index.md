@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: PyC is the library for Concept-based Learning
-      text: Build concept learning pipelines with ease
+      title: PyC is the PyTorch library for Concept-based Deep Learning
+      text: Build interpretable deep learning models with ease
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
@@ -61,7 +61,7 @@ sections:
     id: features
     content:
       title: Features
-      text: Build your site with blocks 🧱
+      text: Build your interpretable Deep Learning with PyC
       items:
 #        - name: Optimized SEO
 #          icon: magnifying-glass

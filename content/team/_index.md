@@ -11,7 +11,7 @@ sections:
     content:
       title: The Core PyC Team
       subtitle: Meet the people behind PyC
-#      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: Meet the people behind PyC!
       # Display content from the `content/post/` folder
       filters:
         folders:

@@ -10,7 +10,7 @@ image:
 
 authors:
   - admin
-  - Ted
+  - Pietro Barbiero
 
 tags:
   - Academic

@@ -15,6 +15,9 @@ main:
 #  - name: Resources
 #    weight: 40
 #    hasChildren: true
+  - name: Team
+    url: team
+    weight: 30
   - name: Docs
     url: https://pytorch-concepts.readthedocs.io/en/latest/
-    weight: 30
+    weight: 40
